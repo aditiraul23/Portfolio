@@ -1,6 +1,6 @@
 # 💼 My Resume Repository
 
-Welcome to my resume repository! This space is dedicated to showcasing my professional experience, skills, and career journey. You can find my latest resume [here](./Your_Resume_File_Name.pdf).
+Welcome to my resume repository! This space is dedicated to showcasing my professional experience, skills, and career journey. You can find my latest resume .
 
 
 
@@ -35,7 +35,7 @@ I am a passionate and detail-oriented **QA Engineer** with **3+ years of experie
 
 ## 📫 Contact Me
 
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/aditi-raul-7464321b8
 - **Email:** aditiraul447@gmail.com
 - **Location:** Mysore, India
 
