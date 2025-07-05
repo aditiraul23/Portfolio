@@ -1,6 +1,6 @@
 # 💼 My Resume Repository
 
-Welcome to my resume repository! This space is dedicated to showcasing my professional experience, skills, and career journey. You can find my latest resume .
+Welcome to my resume repository! This space is dedicated to showcasing my professional experience, skills, and career journey. You can find my latest resume https://github.com/aditiraul23/Portfolio.git.
 
 
 
